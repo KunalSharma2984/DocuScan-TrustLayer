@@ -1,5 +1,7 @@
 # DocuScan TrustLayer
 
+[Live Demo](https://docuscan-trustlayer.vercel.app/)
+
 DocuScan TrustLayer is a web application for processing Aadhaar and Indian
 passport documents. Most document processing happens locally in the browser:
 OCR, image preparation, and PDF page rendering do not require a separate
